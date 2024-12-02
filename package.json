@@ -63,7 +63,7 @@
     "ramda": "^0.26.1",
     "snyk": "^1.316.1",
     "systemic": "^3.0.0",
-    "systemic-azure-bus": "^2.3.1",
+    "systemic-azure-bus": "^2.5.2",
     "systemic-azure-metrics": "^0.1.1",
     "systemic-domain-runner": "^1.1.0",
     "systemic-express": "^1.1.0"
